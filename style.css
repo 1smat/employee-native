@@ -1,0 +1,23 @@
+nav {
+}
+
+ul {
+  display: flex;
+}
+
+li {
+  list-style: none;
+  margin-right: 12px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+a:hover {
+  color: rgba(101, 95, 105, 0.9);
+}
+
+td {
+  border: 1px solid white;
+}
